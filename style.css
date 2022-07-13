@@ -107,5 +107,5 @@ main{
 }
 
 .mobile-menu.active .line3{
-    transform: rotate(-45deg) translate(-5px, -7px);
+    transform: rotate(45deg) translate(-5px, -7px);
 }
